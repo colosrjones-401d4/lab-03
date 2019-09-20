@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "lint": "eslint **/.js",
+    "lint": "eslint",
     "test": "jest",
     "test-watch": "jest"
   },
@@ -24,5 +24,6 @@
   "bugs": {
     "url": "https://github.com/colosrjones-401d4/lab-03/issues"
   },
-  "homepage": "https://github.com/colosrjones-401d4/lab-03#readme"
+  "homepage": "https://github.com/colosrjones-401d4/lab-03#readme",
+  "devDependencies": {}
 }
